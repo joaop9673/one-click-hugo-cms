@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: main  # ou "master" se esse for o seu branch principal
+
+media_folder: "static/img/uploads"  # onde os arquivos serão salvos no repositório
+public_folder: "/img/uploads"       # onde serão acessados no site
+
+site_url: https://seguraisso.netlify.app
+logo_url: /img/uploads/logo.png
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Imagem de capa", name: "thumbnail", widget: "image", required: false }
+      - { label: "Resumo", name: "description", widget: "text", required: false }
+      - { label: "Corpo do post", name: "body", widget: "markdown" }
