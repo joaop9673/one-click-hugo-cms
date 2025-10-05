@@ -18,18 +18,16 @@ Kathleen Booth (1922–2022) foi uma das primeiras pessoas a escrever uma lingua
 
 ## **🌐 Perfil: Radia Perlman**
 
-Conhecida como a "mãe da Internet", Radia Perlman é a criadora do \*\*Spanning Tree Protocol (STP)\*\*, que tornou possível o funcionamento confiável de redes Ethernet — base da Internet como conhecemos hoje. Além disso, tem dezenas de patentes e contribuições em segurança de redes, algoritmos de roteamento e design de protocolos robustos.
+Conhecida como a "*mãe da Internet*", Radia Perlman é a criadora do **Spanning Tree Protocol (STP)**, que tornou possível o funcionamento confiável de redes Ethernet — base da Internet como conhecemos hoje. Além disso, tem dezenas de patentes e contribuições em segurança de redes, algoritmos de roteamento e design de protocolos robustos.
 
 ###### *📚 Além de seu trabalho técnico, Radia é defensora da educação inclusiva em ciência da computação.*
-
-
 
 ## 🔧 Projetos de Código Aberto Liderados por Mulheres
 
 Embora o ambiente de FOSS ainda seja predominantemente masculino, diversas mulheres têm ocupado papéis de destaque em projetos importantes:
 
 * **Julia Evans** – contribui com ferramentas de depuração e educação técnica acessível.
-* Coraline Ada Ehmke\*\* – criadora do \*Contributor Covenant\*, um código de conduta usado por milhares de projetos FOSS.
+* **Coraline Ada Ehmke** – criadora do *Contributor Covenant*, um código de conduta usado por milhares de projetos FOSS.
 * **Deb Nicholson** – atua na liderança de comunidades em projetos como o GNU MediaGoblin e Software Freedom Conservancy.
 * **Máirín Duffy** – designer responsável pela identidade visual do Fedora Project e defensora do design de código aberto.
 
@@ -58,5 +56,5 @@ Celebrar a trajetória de mulheres como Kathleen Booth e Radia Perlman é també
 2. \- Hicks, M. (2017). **Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing**. MIT Press.
 3. \- Perlman, R. (2000). **Interconnections: Bridges, Routers, Switches, and Internetworking Protocols**. Addison-Wesley.
 4. \- Booth, K. H. V. (1958). **Programming for an Automatic Digital Calculator**. Butterworths Scientific Publications.
-5. \- Outreachy. (2025). [<https://www.outreachy.org>](https://www.outreachy.org)
-6. \- PyLadies. (2025). [<https://www.pyladies.com>](https://www.pyladies.com)
+5. \- **Outreachy**. (2025). [<https://www.outreachy.org>](https://www.outreachy.org)
+6. \- **PyLadies**. (2025). [<https://www.pyladies.com>](https://www.pyladies.com)
